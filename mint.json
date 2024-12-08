@@ -42,40 +42,19 @@
     {
       "group": "About",
       "pages": [
-        {
-          "name": "About",
-          "href": "introduction"
-        },
-        {
-          "name": "Data Security",
-          "href": "quickstart"
-        },
+        "about",
+        "data-security",
         "development"
       ]
     },
     {
       "group": "Platform",
       "pages": [
-        {
-          "name": "Account",
-          "href": "essentials/markdown"
-        },
-        {
-          "name": "Home",
-          "href": "essentials/code"
-        },
-        {
-          "name": "Communities",
-          "href": "essentials/images"
-        },
-        {
-          "name": "Integrations",
-          "href": "essentials/settings"
-        },
-        {
-          "name": "Perspectives",
-          "href": "essentials/navigation"
-        }
+        "platform/account",
+        "platform/home",
+        "platform/communities",
+        "platform/integrations",
+        "platform/perspectives"
       ]
     },
     {
