@@ -26,21 +26,8 @@
   ],
   "navigation": [
     {
-      "group": "About",
-      "pages": [
-        "about",
-        "data-security"
-      ]
-    },
-    {
-      "group": "Platform",
-      "pages": [
-        "platform/account",
-        "platform/home",
-        "platform/communities",
-        "platform/integrations",
-        "platform/perspectives"
-      ]
+      "group": "Home",
+      "pages": ["index"]
     }
   ]
 }
