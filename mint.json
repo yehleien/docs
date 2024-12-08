@@ -11,23 +11,32 @@
     "light": "#07C983",
     "dark": "#0D9373"
   },
-  "topbarLinks": [
-    {
-      "name": "Support",
-      "url": "mailto:support@marginalperspective.com"
-    }
-  ],
-  "anchors": [
-    {
-      "name": "Go to Site",
-      "icon": "browser",
-      "url": "https://marginalperspective.com"
-    }
-  ],
+  "topbarLinks": [],
+  "anchors": [],
   "navigation": [
     {
-      "group": "Home",
-      "pages": ["index"]
+      "group": "Section 1",
+      "pages": [
+        "section1/page1",
+        "section1/page2", 
+        "section1/page3"
+      ]
+    },
+    {
+      "group": "Section 2", 
+      "pages": [
+        "section2/page1",
+        "section2/page2",
+        "section2/page3"
+      ]
+    },
+    {
+      "group": "Section 3",
+      "pages": [
+        "section3/page1",
+        "section3/page2",
+        "section3/page3"
+      ]
     }
   ]
 }
