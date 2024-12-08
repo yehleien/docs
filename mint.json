@@ -33,39 +33,49 @@
   ],
   "anchors": [
     {
-      "name": "Documentation",
-      "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
-    },
-    {
-      "name": "Community",
-      "icon": "slack",
-      "url": "https://mintlify.com/community"
-    },
-    {
-      "name": "Blog",
-      "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
+      "name": "Go to Site",
+      "icon": "browser",
+      "url": "https://marginalperspective.com"
     }
   ],
   "navigation": [
     {
-      "group": "Get Started",
+      "group": "About",
       "pages": [
-        "introduction",
-        "quickstart",
+        {
+          "name": "About",
+          "href": "introduction"
+        },
+        {
+          "name": "Data Security",
+          "href": "quickstart"
+        },
         "development"
       ]
     },
     {
-      "group": "Essentials",
+      "group": "Platform",
       "pages": [
-        "essentials/markdown",
-        "essentials/code",
-        "essentials/images",
-        "essentials/settings",
-        "essentials/navigation",
-        "essentials/reusable-snippets"
+        {
+          "name": "Account",
+          "href": "essentials/markdown"
+        },
+        {
+          "name": "Home",
+          "href": "essentials/code"
+        },
+        {
+          "name": "Communities",
+          "href": "essentials/images"
+        },
+        {
+          "name": "Integrations",
+          "href": "essentials/settings"
+        },
+        {
+          "name": "Perspectives",
+          "href": "essentials/navigation"
+        }
       ]
     },
     {
