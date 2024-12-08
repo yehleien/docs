@@ -17,25 +17,25 @@
     {
       "group": "About",
       "pages": [
-        "about/overview",
-        "about/security",
-        "about/why-join"
+        "pages/about/overview",
+        "pages/about/security",
+        "pages/about/why-join"
       ]
     },
     {
       "group": "Platform", 
       "pages": [
-        "platform/account",
-        "platform/home",
-        "platform/communities"
+        "pages/platform/account",
+        "pages/platform/home",
+        "pages/platform/communities"
       ]
     },
     {
       "group": "Features",
       "pages": [
-        "features/perspectives",
-        "features/integrations",
-        "features/settings"
+        "pages/features/perspectives",
+        "pages/features/integrations",
+        "pages/features/settings"
       ]
     }
   ]
