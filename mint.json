@@ -15,27 +15,27 @@
   "anchors": [],
   "navigation": [
     {
-      "group": "Section 1",
+      "group": "About",
       "pages": [
-        "section1/page1",
-        "section1/page2", 
-        "section1/page3"
+        "about/overview",
+        "about/security",
+        "about/why-join"
       ]
     },
     {
-      "group": "Section 2", 
+      "group": "Platform", 
       "pages": [
-        "section2/page1",
-        "section2/page2",
-        "section2/page3"
+        "platform/account",
+        "platform/home",
+        "platform/communities"
       ]
     },
     {
-      "group": "Section 3",
+      "group": "Features",
       "pages": [
-        "section3/page1",
-        "section3/page2",
-        "section3/page3"
+        "features/perspectives",
+        "features/integrations",
+        "features/settings"
       ]
     }
   ]
